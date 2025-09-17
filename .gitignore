@@ -1,0 +1,29 @@
+# Build çýktýlarý
+bin/
+obj/
+
+# Kullanýcýya özel VS ayarlarý
+.vs/
+*.user
+*.suo
+
+# Publish çýktýlarý
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+
+# Paketler (nuget restore ile tekrar indirilebilir)
+*.nupkg
+*.snupkg
+packages/
+
+# Rider / VSCode ayarlarý
+.idea/
+.vscode/
+
+# Log dosyalarý
+*.log
+
+# appsettings (gizli bilgiler)
+WebAPI/appsettings.json
+WebAPI/appsettings.Development.json

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Kodlar\\JwtAuthProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01E0C5-142D-4542-9F23-B6224B9F0338}|DataAccess\\DataAccess.csproj|d:\\visual studio kodlar\\jwtauthproject\\dataaccess\\concrete\\entityframework\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01E0C5-142D-4542-9F23-B6224B9F0338}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01E0C5-142D-4542-9F23-B6224B9F0338}|DataAccess\\DataAccess.csproj|d:\\visual studio kodlar\\jwtauthproject\\dataaccess\\concrete\\entityframework\\efuserrepositorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01E0C5-142D-4542-9F23-B6224B9F0338}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efuserrepositorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF3E259-376F-4F29-9FC3-8666101262F8}|WebAPI\\WebAPI.csproj|d:\\visual studio kodlar\\jwtauthproject\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF3E259-376F-4F29-9FC3-8666101262F8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01E0C5-142D-4542-9F23-B6224B9F0338}|DataAccess\\DataAccess.csproj|d:\\visual studio kodlar\\jwtauthproject\\dataaccess\\abstract\\iefuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01E0C5-142D-4542-9F23-B6224B9F0338}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iefuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CDFA8E-D504-4840-A767-481C008441C9}|Business\\Business.csproj|d:\\visual studio kodlar\\jwtauthproject\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CDFA8E-D504-4840-A767-481C008441C9}|Business\\Business.csproj|solutionrelative:business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfUserRepositoryDal.cs",
+              "DocumentMoniker": "D:\\Visual Studio Kodlar\\JwtAuthProject\\DataAccess\\Concrete\\EntityFramework\\EfUserRepositoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfUserRepositoryDal.cs",
+              "ToolTip": "D:\\Visual Studio Kodlar\\JwtAuthProject\\DataAccess\\Concrete\\EntityFramework\\EfUserRepositoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfUserRepositoryDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:55:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEfUserRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio Kodlar\\JwtAuthProject\\DataAccess\\Abstract\\IEfUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IEfUserRepository.cs",
+              "ToolTip": "D:\\Visual Studio Kodlar\\JwtAuthProject\\DataAccess\\Abstract\\IEfUserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IEfUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:53:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Kodlar\\JwtAuthProject\\Business\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAuthService.cs",
+              "ToolTip": "D:\\Visual Studio Kodlar\\JwtAuthProject\\Business\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:53:47.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Kodlar\\JwtAuthProject\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Visual Studio Kodlar\\JwtAuthProject\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:50:31.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Visual Studio Kodlar\\JwtAuthProject\\DataAccess\\Concrete\\EntityFramework\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Visual Studio Kodlar\\JwtAuthProject\\DataAccess\\Concrete\\EntityFramework\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:59:17.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

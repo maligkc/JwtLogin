@@ -1,0 +1,15 @@
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\bin\Debug\net9.0\DataAccess.dll
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\bin\Debug\net9.0\Entities.dll
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\bin\Debug\net9.0\Entities.pdb
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.csproj.AssemblyReference.cache
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.csproj.Up2Date
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.dll
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+D:\Visual Studio Kodlar\JwtAuthProject\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll

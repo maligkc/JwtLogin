@@ -1,0 +1,11 @@
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\bin\Debug\net9.0\Entities.dll
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\bin\Debug\net9.0\Entities.pdb
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\Entities.dll
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\Entities.pdb
+D:\Visual Studio Kodlar\JwtAuthProject\Entities\obj\Debug\net9.0\ref\Entities.dll
